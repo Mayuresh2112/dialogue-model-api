@@ -1,0 +1,82 @@
+===== MODEL COMPARISON RESULTS =====
+Date: 2025-04-09 23:34:32
+Original model: distilgpt2
+Fine-tuned model: C:/Users/ue/Downloads/Project/fine_tuned_dialogue_model
+
+PROMPT 1: Title: A Secret Mission
+Objective: Retrieve the lost artifact
+Dialogue:
+
+ORIGINAL MODEL OUTPUT:
+Title: A Secret Mission
+Objective: Retrieve the lost artifact
+Dialogue: The quest to locate the artifact in the ruins of the Temple of the Gods, which is located in the Ruins of the Gods, which is located in the Ruins of the Gods, which is located in the Ruins of the Gods, which is located in the Ruins of the Gods, which is located in the Ruins of the Gods, which is located in the Ruins of the Gods, which is located in the Ruins of
+
+FINE-TUNED MODEL OUTPUT:
+Title: A Secret Mission
+Objective: Retrieve the lost artifact
+Dialogue: "Return the artifact to the Dark Portal and retrieve the artifact from its resting place." The mission is a success, and I want you to deliver it to the Dark Portal Commander in Stormwind City. He is located at the end of the tunnel leading up to the entrance to the Dark Portal. Once there, speak with him to get the artifact back to the Dark Portal Commander. Good luck. The mission is complete
+
+--------------------------------------------------
+
+PROMPT 2: Title: The Ancient Temple
+Objective: Explore the ruins
+Dialogue:
+
+ORIGINAL MODEL OUTPUT:
+Title: The Ancient Temple
+Objective: Explore the ruins
+Dialogue: Find the ruins of the Temple and find the ruins of the Temple and find the ruins of the Temple and find the ruins of the Temple and find the ruins of the Temple and find the ruins of the Temple and find the ruins of the Temple and find the ruins of the Temple and find the ruins of the Temple and find the ruins of the Temple and find the ruins of the Temple and find the ruins of the Temple and find
+
+FINE-TUNED MODEL OUTPUT:
+Title: The Ancient Temple
+Objective: Explore the ruins
+Dialogue: The Ancient Temple has a history of great importance in the history of the city. It was built to hold the city of Ashenvale for centuries. It has since been restored to a great state, but the city is now overrun by demonic agents. If you are willing to help us, you can help us rebuild the temple. Speak with the Council of Six to establish a new order of business. The Council of Six will
+
+--------------------------------------------------
+
+PROMPT 3: Title: The Dragon's Lair
+Objective: Slay the dragon
+Dialogue:
+
+ORIGINAL MODEL OUTPUT:
+Title: The Dragon's Lair
+Objective: Slay the dragon
+Dialogue: The Dragon's Lair
+Dialogue: The Dragon's Lair
+Objective: Slay the dragon
+Dialogue: The Dragon's Lair
+Dialogue: The Dragon's Lair
+Dialogue: The Dragon's Lair
+Objective: Slay the dragon
+Dialogue: The Dragon's Lair
+Dialogue: The Dragon's Lair
+Objective: Slay the dragon
+Dialogue: The Dragon's Lair
+Objective: Slay the dragon
+Dialogue:
+
+FINE-TUNED MODEL OUTPUT:
+Title: The Dragon's Lair
+Objective: Slay the dragon
+Dialogue: The Dragon's Lair is a sacred place of great power. The shrine was once home to the great dragon, Rethys, the god of dragons. The shrine is now home to a vast, chaotic realm. If you are to defeat Rethys, you must defeat him before he can rise again. You must defeat the dragon and slay him. Do this and the dragon will be destroyed. Return to me when
+
+--------------------------------------------------
+
+PROMPT 4: Title: Village Trouble
+Objective: Help the villagers
+Dialogue:
+
+ORIGINAL MODEL OUTPUT:
+Title: Village Trouble
+Objective: Help the villagers
+Dialogue:
+"The village was a small village, and the village was a small village, and the village was a small village, and the village was a small village, and the village was a small village, and the village was a small village, and the village was a small village, and the village was a small village, and the village was a small village, and the village was a small village, and the village was a
+
+FINE-TUNED MODEL OUTPUT:
+Title: Village Trouble
+Objective: Help the villagers
+Dialogue: Help them get out of their misery, or they may be angry. Problem: The villagers are in a dangerous position. The villagers have been getting reports of an ogre attack near the village. The ogre attacks the village, and there is no way we can stop it. Report to Ranger A. O'Donnell in the Village of the Damned. He will be there to assist you in locating the ogre attack. Please, do
+
+--------------------------------------------------
+
